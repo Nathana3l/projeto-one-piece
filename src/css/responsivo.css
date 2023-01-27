@@ -3,6 +3,9 @@
     background-color: #2304ac;
   }
 
+  .fundo-video {
+    display: none;
+  }
   .container {
     flex-wrap: wrap;
     justify-content: center;
